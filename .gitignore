@@ -1,0 +1,4 @@
+tg_echo_eroshina/env/
+__pycache__/
+*.pyc
+config.py
